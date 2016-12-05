@@ -4,7 +4,7 @@ Favorite blog posts I've published in the past few years
 ##Multipart/form-data File Upload with AngularJS
 [Link](http://www.uncorkedstudios.com/blog/multipartformdata-file-upload-with-angularjs/)
 
-Accounts for >60% of the traffic on the company site https://uncorkedstudios.com/
+Responsible for >60% of the traffic on the company site https://uncorkedstudios.com/
 
 ##Getting Started with Grunt, Part 1
 [Link](http://www.uncorkedstudios.com/blog/life-after-tusk-getting-started-with-gruntjs-part-1/)
